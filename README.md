@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/B2SIX/b2sixdevopsproject1/_apis/build/status/b2sixdevopsproject1%20-%20CI?branchName=master)](https://dev.azure.com/B2SIX/b2sixdevopsproject1/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/B2SIX/b2sixdevopsproject1/_apis/build/status/b2sixdevopsproject1%20-%20CI?branchName=master&jobName=Build)](https://dev.azure.com/B2SIX/b2sixdevopsproject1/_build/latest?definitionId=1&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
